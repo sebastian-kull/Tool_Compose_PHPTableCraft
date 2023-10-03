@@ -1,0 +1,8 @@
+{
+    "name": "sebastian-kull/tool-compose-phptablecraft",
+    "description": "Frontend Table Crater Library",
+    "type": "library",
+    "require": {
+        "php": "^8.0",
+    },
+}
